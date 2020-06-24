@@ -1,5 +1,7 @@
-# Apps From Scratch | Flutter Travel UI Starter Repo
+# Flutter Travel UI Starter
 
-Clone this repo and follow my YouTube video: [Flutter Travel UI Tutorial | Apps From Scratch](https://youtu.be/CSa6Ocyog4U)
+This app was created following the [Youtube video of Marcus Ng](https://youtu.be/CSa6Ocyog4U)
 
-[Complete Travel UI](https://github.com/MarcusNg/flutter_travel_ui)
+After following some Flutter and Dart tutorials, building this application was a step forward as the complexity of the UI we are building and the number of details is higher than in the previous ones. 
+
+It was a good way to learn more about creating beatiful material design applications with Flutter and I will use this knowledge in future apps.
